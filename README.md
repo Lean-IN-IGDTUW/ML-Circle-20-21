@@ -10,3 +10,4 @@ This repository contains the study materials for **Lean In Machine Learning Circ
 | 31st Jan 2021 | Python for ML | [HackerRank Practice](https://www.hackerrank.com/domains/python) |
 | 5th Feb 2021 | Doubt Session | Refer Recording |
 | 22nd Feb 2021 | Python Libraries | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) |
+| 4th March 2021 | Data Collection | Refer Recording |
