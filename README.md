@@ -12,3 +12,4 @@ This repository contains the study materials for **Lean In Machine Learning Circ
 | 22nd Feb 2021 | Python Libraries | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 4th March 2021 | Data Collection | Refer Recording |
 | 19th March 2021 | KNN | [PPT](https://drive.google.com/file/d/17Sai9eazfJfeS7ezGglFxc4vtbHNtWoM/view?usp=sharing) |
+| 22nd March 2021 | Linear Regression | [PDF](https://drive.google.com/file/d/1mQzSA8XytkvJWsHFhNBbogjkU8v1Ybfe/view?usp=sharing) |
