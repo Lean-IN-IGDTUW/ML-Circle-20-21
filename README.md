@@ -13,3 +13,4 @@ This repository contains the study materials for **Lean In Machine Learning Circ
 | 4th March 2021 | Data Collection | Refer Recording |
 | 19th March 2021 | KNN | [PPT](https://drive.google.com/file/d/17Sai9eazfJfeS7ezGglFxc4vtbHNtWoM/view?usp=sharing) |
 | 22nd March 2021 | Linear Regression | [PDF](https://drive.google.com/file/d/1mQzSA8XytkvJWsHFhNBbogjkU8v1Ybfe/view?usp=sharing) |
+| 26th March 2021 | Naive Bayes | [PPT](https://drive.google.com/file/d/1istFLUnPMap-i-To-DQ0M6Df6YvwJR3y/view?usp=sharing) |
