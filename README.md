@@ -14,4 +14,4 @@ This repository contains the study materials for **Lean In Machine Learning Circ
 | 19th March 2021 | KNN | [PPT](https://drive.google.com/file/d/17Sai9eazfJfeS7ezGglFxc4vtbHNtWoM/view?usp=sharing) |
 | 22nd March 2021 | Linear Regression | [PDF](https://drive.google.com/file/d/1mQzSA8XytkvJWsHFhNBbogjkU8v1Ybfe/view?usp=sharing) |
 | 26th March 2021 | Naive Bayes | [PPT](https://drive.google.com/file/d/1istFLUnPMap-i-To-DQ0M6Df6YvwJR3y/view?usp=sharing) |
-| 11th April 2021 | Logistic Regression | [PPT](https://drive.google.com/file/d/1WkggIs4W_g01y_gFRW-kMOq6pcBmP0xK/view?usp=sharing) |
+| 11th April 2021 | Logistic Regression and Decision Tree | Refer recording and [PPT](https://drive.google.com/file/d/1WkggIs4W_g01y_gFRW-kMOq6pcBmP0xK/view?usp=sharing) |
